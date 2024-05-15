@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tarunkumarreddytirupathi
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on kernel projects
 - 📫 How to reach me tarunkumarreddtirupathi@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am good at sleeping
