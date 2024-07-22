@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarunkumarreddytirupathi
-- 👀 I’m interested in everything
+- 👀 I’m interested in open source
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on kernel projects
 - 📫 How to reach me tarunkumarreddtirupathi@gmail.com
