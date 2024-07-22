@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on kernel projects
 - 📫 How to reach me tarunkumarreddtirupathi@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I am good at sleeping
 
 <!---
