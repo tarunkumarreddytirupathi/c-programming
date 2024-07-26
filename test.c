@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
-    printf(":\n");
+    printf("dsf");
     return 0;
 }
